@@ -30,7 +30,7 @@ def main():
 
   buckets = enumerate_s3_buckets(target_domain)
 
-  print('The following S3 buckets [🪣] found for the domain: {}'.format(target_domain))
+  print('The following S3 buckets [🪣] found for the Domain: {}'.format(target_domain))
   for bucket in buckets:
     print(bucket)
 
