@@ -1,4 +1,4 @@
-# bucket_enum
+# AWS S3 Bucket Enumuration 
 Find Secrets in the Cloud: A tool for S3 Bucket Enumeration
 
 💡 [Pre-Requisite]
