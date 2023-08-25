@@ -1,9 +1,9 @@
-# AWS S3 Bucket Enumuration 
+# AWS S3 Bucket Enumeration 
 Find Secrets in the Cloud: A tool for S3 Bucket Enumeration
 
 💡 [Pre-Requisite]
 
-1. This tool requires boto3 and PIP.
+1. This tool requires boto3, PIP and Python.
 
 🌟 [How to Run/Use] 
 
